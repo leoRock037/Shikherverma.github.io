@@ -3,15 +3,15 @@ title: My Territory
 index_title: Shikher Verma # same as title in index.html file, so that custom description can be set in page.html layout.
 blog_title: My Territory
 header-img: img/home-bg.jpg
-email: root@shikherverma.com
+email: cristianbenitez@fluvip.com
 copyright_name: ShikherVerma
 description: "Online Territory of Shikher Verma"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
 url: http://fluviptecnologia.com #only used in disque comments for now
-disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
-github_username:  shikherverma
-facebook_username:  shikherverma1
-email_username:  root@shikherverma.com
+disqus_url: fluviptecnologia.com # disque comments are broken if you send http:// along with url
+github_username:  leoRock037
+facebook_username:  fluvip
+email_username:  cristianbenitez@fluvip.com
 collections:
   - portfolio
 
